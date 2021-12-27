@@ -2,7 +2,7 @@
   <h1 align="center">
   <b>Hey there, it's Jordan</b> 👋
   </h1>
-    <p>I build the things to automate the things. Aspiring Rustacean 🦀.</p>
+    <p  align="center">I build the things to automate the things. Aspiring Rustacean 🦀. Fan of the Scaled Agile Framework.</p>
 </p>
 
 <p align="center">
