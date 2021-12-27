@@ -11,6 +11,6 @@
   <a href="https://twitter.com/jpheg"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://medium.com/@jphegley"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
   <span class="badge-buymeacoffee">
-    <a href="https://ko-fi.com/USER" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a>
+    <a href="https://ko-fi.com/jphegley"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Buy Me A Coffee donate button"/></a>
   </span>
 </p>
