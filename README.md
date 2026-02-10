@@ -1,6 +1,6 @@
 # Hey, I'm Jordan 👋
 
-I'm a software engineer who loves building full-stack applications and automating everything. Currently focused on building **Magpie**, a collections management platform.
+Currently focused on building **Magpie**, a collections management platform.
 
 ## 🐦‍⬛ What I'm Building
 
