@@ -8,15 +8,6 @@ Currently focused on building **Magpie**, a collections management platform.
 
 A full-stack application for organizing, cataloging, and sharing collections. Whether it's vinyl records, trading cards, or vintage cameras - Magpie helps you manage it all.
 
-| Repository | Description | Tech |
-|------------|-------------|------|
-| [magpie](https://github.com/jphegley/magpie) | Web Frontend | React 19, Vite, Tailwind CSS 4 |
-| [magpie-api](https://github.com/jphegley/magpie-api) | REST API Backend | Go, Gin, PostgreSQL |
-| [magpie-mobile](https://github.com/jphegley/magpie-mobile) | Mobile App | React Native, Expo |
-| [magpie-knowledge](https://github.com/jphegley/magpie-knowledge) | Technical Docs | Markdown, BookStack |
-
-**Features:** User authentication, collection sharing, custom field templates, image uploads, cross-platform support
-
 ## 🛠️ Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
